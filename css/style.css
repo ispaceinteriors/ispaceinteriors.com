@@ -187,8 +187,6 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	color: #EEEAFD;
 	font-size: 60px;
 	font-weight: 400;
-	margin-left: auto;
-	width: fit-content;
 	background-color:rgba(245, 206, 249, 0.1);
     backdrop-filter: blur(4px);
 	box-shadow: 0px 0px 10px 2px rgba(177, 176, 176, 0.5); 
