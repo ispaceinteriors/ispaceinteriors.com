@@ -253,6 +253,7 @@ header .intro-text {
 }
 .categories {
 	padding-bottom: 120px;
+	bottom: 15px;
 	text-align: center;
 }
 ul.cat li {
