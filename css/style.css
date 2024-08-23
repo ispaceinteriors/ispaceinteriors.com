@@ -265,8 +265,8 @@ ol.type li {
 ol.type li a {
 	color: #9667E0;
 	font-weight: 400;
-	font-size: 15px;
-	padding: 10px 20px;
+	font-size: 12px;
+	padding: 10px 10px;
 	border: 2px solid #9667E0;
 	border-radius: 10px 0 10px 0;
 	text-transform: uppercase;
