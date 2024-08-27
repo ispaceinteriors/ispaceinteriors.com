@@ -256,8 +256,7 @@ header .intro-text {
 	background: #D8CAF6;
 }
 .categories {
-	padding-bottom: 120px;
-	bottom: 15px;
+	padding-bottom: 80px;
 	text-align: center;
 }
 ul.cat li {
@@ -265,7 +264,7 @@ ul.cat li {
 }
 ol.type li {
 	display: inline-block;
-	margin-left: 20px;
+	margin: auto;
 }
 ol.type li a {
 	color: #9667E0;
