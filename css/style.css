@@ -246,6 +246,10 @@ header .intro-text {
 	padding: 10px 0;
 	text-transform: uppercase;
 }
+#services p 
+{
+	text-align: justify;
+}
 /* Portfolio Section */
 #portfolio {
 	padding: 120px 0;
@@ -281,37 +285,7 @@ ol.type li a:hover {
 	background: #9667E0;
 	color: #fff;
 }
-.isotope-item {
-	z-index: 2
-}
-.isotope-hidden.isotope-item {
-	z-index: 1
-}
-.isotope, .isotope .isotope-item {
-	/* change duration value to whatever you like */
-	-webkit-transition-duration: 0.8s;
-	-moz-transition-duration: 0.8s;
-	transition-duration: 0.8s;
-}
-.isotope-item {
-	margin-right: -1px;
-	-webkit-backface-visibility: hidden;
-	backface-visibility: hidden;
-}
-.isotope {
-	-webkit-backface-visibility: hidden;
-	backface-visibility: hidden;
-	-webkit-transition-property: height, width;
-	-moz-transition-property: height, width;
-	transition-property: height, width;
-}
-.isotope .isotope-item {
-	-webkit-backface-visibility: hidden;
-	backface-visibility: hidden;
-	-webkit-transition-property: -webkit-transform, opacity;
-	-moz-transition-property: -moz-transform, opacity;
-	transition-property: transform, opacity;
-}
+
 .portfolio-item {
 	margin: 15px 0;
 }
