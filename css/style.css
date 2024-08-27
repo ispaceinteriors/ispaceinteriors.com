@@ -246,10 +246,7 @@ header .intro-text {
 	padding: 10px 0;
 	text-transform: uppercase;
 }
-#services p 
-{
-	text-align: justify;
-}
+
 /* Portfolio Section */
 #portfolio {
 	padding: 120px 0;
